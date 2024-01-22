@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    margin-left: 10px;
+    font-family: "Grape Nuts", cursive;
+    font-weight: 500;
+    font-size: x-large;
+
+
+}
+
+nav {
+    margin-right: 50px;
+    font-family: "Grape Nuts", cursive;
+    font-weight: 500;
+    font-size: x-large;
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+a:hover {
+    color: yellow;
+}
+
+#Home {
+    padding: 100px;
+    margin-top: 20px;
+    background-color: yellow;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+#Aboutus {
+    margin-top: 20px;
+    background-color: violet;
+    padding: 100px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+#Project {
+    margin-top: 20px;
+    background-color: lightcoral;
+    padding: 100px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+#Contact {
+    margin-top: 20px;
+    background-color: limegreen;
+    padding: 100px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+#Login {
+    margin-top: 20px;
+    background-color: lightseagreen;
+    padding: 100px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+}
